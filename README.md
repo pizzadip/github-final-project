@@ -11,4 +11,4 @@ Input:
 Output
    simple interest = p*t*r
 
-#https://github.com/pizzadip/github-final-project/edit/main/README.md
+
